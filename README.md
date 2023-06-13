@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🚀 I’m currently creating a mobile application for Code the Change YYC<br>🌟I’m learning React Native, Docker, GraphQL and AWS S3<br>💬 Ask me about setting up coffee chats!☕ I enjoy making new friends💁
+🚀 I’m currently creating a mobile application for Code the Change YYC<br>🌟I’m learning React Native, Docker, GraphQL and Ghost<br>💬 Ask me about setting up coffee chats!☕ I enjoy making new friends💁
 
 ## 🌐 Socials:
 
