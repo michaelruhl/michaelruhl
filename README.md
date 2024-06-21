@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🚀 Great CPU but needs more RAM..<br>🌟I’m learning Vue, Docker, Firebase and TypeScript<br>💬 Ask me about setting up coffee chats!☕ I enjoy making new friends💁
+🚀 Great CPU but needs more RAM..<br>
 
 ## 🌐 Socials:
 
